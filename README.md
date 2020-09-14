@@ -1,4 +1,5 @@
 ### Hi there 👋
+This is under construction, as I just learned that this exists in GitHub! Stay tuned for a complete README.md...
 
 <!--
 **nich227/nich227** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
